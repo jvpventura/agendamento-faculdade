@@ -1,5 +1,10 @@
 # 📅 Agendamento Faculdade
 
+## 🖼️ Interface do Projeto
+
+![Tela do formulário de agendamento](./images/formulario.png)
+
+
 Projeto de formulário de agendamento desenvolvido como atividade acadêmica, com foco em organização de horários e prática de desenvolvimento frontend.
 
 ---
